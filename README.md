@@ -10,7 +10,7 @@ drf-yasg (documentación Swagger)
 Instalación y configuración
 1. Clonar el repositorio:
    codigo:
-   git clone https://github.com/TU_USUARIO/prueba-backend.git
+   git clone https://github.com/YohanaDev/prueba-backend.git
    cd prueba-backend
 2. Crear y activar entorno virtual
    codigo:
